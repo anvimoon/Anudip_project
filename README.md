@@ -1,2 +1,2 @@
 # Anudip_project
-Project helps understand the student placement record.
+Project helps understand and analyze the health reports.
