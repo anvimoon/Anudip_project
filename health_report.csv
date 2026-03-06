@@ -1,0 +1,6 @@
+PatientID,Age,Gender,Height,Weight,BP,Sugar,Height_m,BMI,BMI_Status,BP_Status,Sugar_Status
+1,25,M,170,65,120,90,1.7,22.49134948096886,Normal,Normal,Normal
+2,45,F,160,70,140,160,1.6,27.343749999999996,Overweight,High,High
+3,30,M,175,80,130,110,1.75,26.122448979591837,Overweight,Normal,Normal
+4,50,F,155,68,150,180,1.55,28.303850156087407,Overweight,High,High
+5,22,M,180,75,118,85,1.8,23.148148148148145,Normal,Normal,Normal
